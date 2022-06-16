@@ -1,0 +1,5 @@
+torch==1.4.0
+torchvision==0.5.0
+torchlars==0.1.2
+diffdist==0.1
+tensorboardX==2.0
